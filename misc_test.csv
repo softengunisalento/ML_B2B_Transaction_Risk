@@ -1,0 +1,10 @@
+country,amount,userAgent_isPc,userAgent_browserFamily,userAgent_osFamily,IBAN_countryCode,IBAN_bankCode,SIA,CAP,SAE,RAE,companyType,is_anomaly
+Austria,"264986,74",1,Chrome,Windows,AT,34000,BUV4U,39031,430,161,SRL,1
+Italy,"111345,77",1,Chrome,Windows,DE,34270024,B5SDZ,39100,615,11,SS,0
+Italy,1659,1,Firefox,Windows,IT,3069,BQ6RB,31010,430,649,SRL,0
+Italy,200,1,Safari,Mac OS X,IT,8794,CM5CR,30174,492,614,SAS,1
+Italy,1000,1,Chrome,Windows,IT,8327,CEFGV,31039,430,505,SRL,0
+Italy,"120,78",1,Chrome,Windows,IT,8749,CKZYT,31038,430,314,SRL,0
+Italy,299,0,Other,Linux,IT,8904,082X3,30024,614,342,DI,1
+Italy,"151,35",0,Samsung Internet,Android,IT,2008,A7TWW,36027,430,316,SRL,0
+Italy,1678,1,Chrome,Windows,IT,3440,CHRGC,36016,430,830,SRL,0
